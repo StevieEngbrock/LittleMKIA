@@ -40,9 +40,9 @@ The code for LittleMKIA can be found on my Github repository at
 
 https://github.com/StevieEngbrock/LittleMKIA/blob/main/microMKIA.py
 or 
-here at Huggingface at https://huggingface.co/Stevie23/LittleMKIA/blob/main/LittleMKIA.py
+on Huggingface at https://huggingface.co/Stevie23/LittleMKIA/blob/main/LittleMKIA.py
 
-for now the code here is more up to date than on GitHub but I hope to update GitHub Soon
+for now the code Huggingface is more up to date than on GitHub but I hope to update GitHub Soon
 
 This bot isn't nearly as smart as ChatGPT, so don't expect it to be,
 but if you type "think:" (without the quotes) and then your question (before pressing enter),
@@ -53,7 +53,7 @@ but that depends on the question or task.
 The model tends to be smarter when Langchain is bypassed, but I use Langchain in the bot, so the bot can remember things in context but I 
 include the "think:" command so that Langchain can be temporarily bypassed if you want.
 
-The code on GitHub and here is just a simple bot, but the bot can be enhanced with other commands, as well as the "think:" command.
+The code on GitHub is just a simple bot, but the bot can be enhanced with other commands, as well as the "think:" command.
 Commands are simply actions that the bot does which use your input when you match a certain pattern.
 
 I've made a version of her that also has commands for spelling, math, telling the time, paraphrasing, 
