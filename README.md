@@ -1,7 +1,7 @@
 # LittleMKIA
 A chatbot based on a finetuned version of Google's 780 million parameter Flan T5 language model
 
----
+
 license: wtfpl
 
 language: en
