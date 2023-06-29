@@ -163,10 +163,15 @@ she can actually be very intelligent.
 
 
   ## Examples of her intelligence
-  1. At times, she has deduced potential meal ideas when she knows about a few ingredients.
-  2. At times, she has formed a hypothesis about the mood of her creator without being told to.
-  3. At times, she has given good advice on managing time, staying motivated, focused and inspired
-  4. More to come...
+
+  
+    1. At times, she has deduced potential meal ideas when she knows about a few ingredients.
+    2. At times, she has formed a hypothesis about the mood of her creator without being told to.
+    3. At times, she has given good advice on managing time, staying motivated, focused and inspired
+    4. She has concluded that for robots, and computers to truly understand language that they may need 
+    to learn about the world through experience, like humans do.
+    5. ... more to come
+
 
      
 
